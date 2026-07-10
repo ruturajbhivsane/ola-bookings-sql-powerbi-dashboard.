@@ -65,22 +65,22 @@ SQL scripts for all of this are in the [`/sql`](./sql) folder, in order:
 All pages share a synced date-range slicer for cross-page filtering.
 
 ### Overall
-![Overall page](./screenshots/01_overall.png)
+![Overall page](./screenshot/01_overall.png)
 
 ### Vehicle Type
-![Vehicle Type page](./screenshots/02_vehicle_type.png)
+![Vehicle Type page](./screenshot/02_vehicle_type.png)
 
 ### Revenue
-![Revenue page](./screenshots/03_revenue.png)
+![Revenue page](./screenshot/03_revenue.png)
 
 ### Cancellation
-![Cancellation page](./screenshots/04_cancellation.png)
+![Cancellation page](./screenshot/04_cancellation.png)
 
 ### Ratings
-![Ratings page](./screenshots/05_ratings.png)
+![Ratings page](./screenshot/05_ratings.png)
 
 ### Data model
-![Star schema data model](./screenshots/06_data_model.png)
+![Star schema data model](./screenshot/06_data_model.png)
 
 Power BI file: [`/powerbi/ola_dashboard.pbix`](./powerbi/ola_dashboard.pbix)
 DAX measures used: [`/powerbi/dax_measures.md`](./powerbi/dax_measures.md)
